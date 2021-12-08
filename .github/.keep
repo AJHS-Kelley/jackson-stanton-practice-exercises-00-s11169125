@@ -1,0 +1,21 @@
+public class JacksonStanton00
+
+  public static viod main (String[] args) {
+      String[] strArr = {"imperious","deride", "hackneyed", "immolate","grotesque","censure","gambol","quagmire","gibe","martinet
+
+      int[] intArr = {1,2,3,4,5,6,7,8,9};
+
+      //creating an array by assigning with a for-loop
+      //the element of this double array should be values 0-9 and not 0-10 becasue the variable i start at 0 and ends at 9
+      double[] doubArr = new double[10];
+      for(int i = 0; i < doubArr.length; i++){
+          doubArr[i] = i;
+        }  
+
+        public static void stringArray(string[] strArr){
+            for(int i = 0; i < strArr.length; i++
+            System.out.println(strArr[i]); //prints the String
+
+            int remainder = strArr[i].length() % 2;
+
+            if(reaminder ==1) //odd - else == 0;
